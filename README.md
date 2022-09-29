@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/Delvechio25">
   <img padding-right="50px" align="left" height="180em" width="" src="https://github-readme-stats.vercel.app/api?username=Delvechio25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="left" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delvechio25&layout=compact&langs_count=7&theme=dark"/>
+ 
   
 </div>
 
